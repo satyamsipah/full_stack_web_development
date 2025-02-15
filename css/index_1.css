@@ -1,0 +1,29 @@
+h1 {
+    color: #f52936;
+}
+
+h3 {
+    color: purple;
+}
+
+span button {
+    color: green;
+}
+
+#login, #signup{
+    color: white;
+    background-color: black;
+}
+
+nav ul li {
+    color: blue;
+}
+
+nav ul li a {
+    color: hotpink;
+}
+
+p a {
+    color: aqua;
+}
+
