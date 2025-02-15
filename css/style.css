@@ -1,0 +1,15 @@
+h1 {
+    /* named color system */
+    color: red;
+    background-color: blue; /* background color property */
+}
+
+h3 {
+    /* RGB color system */
+    color: rgb(255, 255, 255);
+}
+
+button {
+    /* Hexadecimal color system */
+    color: #ffff00;
+}
